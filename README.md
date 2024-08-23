@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m a Junior Software Developer with 2 years of experience.
+- 🔭 I’m a Software Developer with 2 years of experience.
 - 🌱 Proficient in JavaScript, including frameworks like React for front-end development.
 - 💻 Experienced in Node.js for server-side development and Knowledgeable in Express.js for building RESTful APIs
 - 🤔 Familiar with version control systems such as Git
